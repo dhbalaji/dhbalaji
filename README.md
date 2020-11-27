@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey, this is Balaji. I am a full stack developer specialized in frontend technologies.
 
-- 🔭 I’m currently working as a senior software engineer at [Sabre, an innovative travel company](https://www.sabre.com/) working on React + Java + Selenium + Unix stack as a full stack developer.
+- 🔭 I’m currently working as a senior software engineer at [Sabre, an innovative travel company](https://www.sabre.com/). I write code for the requirements, do operations tasks and lead developer teams working on enterprise product built on React + Java + Selenium + Unix stack.
 - 🌱 I’m currently learning on cloud computing tech like GCP.
 - 👯 I’m looking to collaborate with someone/projects which can prevent fraud/theft in real world.
 - 💬 Ask me about product engineering, coding techniques, picking a tech stack, teamwork, trainings & interviewing people
