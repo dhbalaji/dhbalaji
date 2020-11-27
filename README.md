@@ -20,8 +20,8 @@ Hey, this is Balaji. I am a full stack developer specialized in frontend technol
 - 🔭 I’m currently working as a senior software engineer at [Sabre, an innovative travel company](https://www.sabre.com/). I write code for the requirements, do operations tasks and lead developer teams working on enterprise product built on React + Java + Selenium + Unix stack.
 - 🌱 I’m currently learning on cloud computing tech like GCP.
 - 👯 I’m looking to collaborate with someone/projects which can prevent fraud/theft in real world.
-- 💬 Ask me about product engineering, coding techniques, picking a tech stack, teamwork, trainings & interviewing people
-- 📫 How to reach me: dhbalaji.work_at_gmail_dot_com 📩
-- 😄 Pronouns: found with name dhbalaji on the internet
+- 💬 Ask me about product engineering, coding techniques, picking a tech stack, teamwork, trainings & interviewing people.
+- 📫 How to reach me: dhbalaji.work_at_gmail_dot_com 📩.
+- 😄 Pronouns: found with name dhbalaji on the internet.
 - ⚡ Fun fact: Having read many technical books 📚, I am planning to write a book focussed on performance engineering.
-- 📔 Maintains a technical blog at [dhbalaji.dev](https://dhbalaji.dev) ✍
+- 📔 Maintains a technical blog at [dhbalaji.dev](https://dhbalaji.dev) ✍.
