@@ -30,5 +30,5 @@ Hey, this is Balaji. I am a full stack developer specialized in frontend technol
 - 📫 How to reach me: `dhbalaji.work@gmail.com` 📩.
 - 😄 Alias: found with name `dhbalaji` on the internet.
 - ⚡ Fun fact: Having read many technical books 📚, I am planning to write a book focussed on performance engineering.
-- 📔 Actively runs a technical blog at [dhbalaji.dev](https://dhbalaji.dev) ✍ & passively an [Youtube channel](https://www.youtube.com/channel/UCH1nhBYxxLLXUHO6TdOTcQA) 📹.
+- 📔 Actively running a technical blog at [dhbalaji.dev](https://dhbalaji.dev) ✍ & passively an [Youtube channel](https://www.youtube.com/channel/UCH1nhBYxxLLXUHO6TdOTcQA) 📹.
 - 🚲 Hobbies include cycling and reading nonfiction books.
