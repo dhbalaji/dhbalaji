@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 Hey, this is Balaji. I am a full stack developer specialized in frontend technologies.
 
-- 🔭 I’m currently working as a senior software engineer at [Sabre, an innovative travel company](https://www.sabre.com/). I write code for the requirements, do operations tasks and lead developer teams working on enterprise product built on React + Java + Selenium + Unix stack.
+-  🔭 I’m currently working as a senior software engineer at [Sabre, an innovative travel company](https://www.sabre.com/). I write code for the requirements, do operations tasks and lead developer teams working on enterprise product built on React + Java + Selenium + Unix stack.
 - 🌱 I’m currently learning on cloud computing tech like GCP.
-- 👯 I’m looking to collaborate with someone/projects which can prevent fraud/theft in real world.
-- 💬 Ask me about product engineering, coding techniques, picking a tech stack, teamwork, trainings & interviewing people.
-- 📫 How to reach me: dhbalaji.work_at_gmail_dot_com 📩.
-- 😄 Pronouns: found with name dhbalaji on the internet.
+- 👯 I’m looking to collaborate with someone/projects which can prevent fraud/theft ⛑ in real world.
+- 💬 Ask me about product engineering, conducting tech trainings, interviewing people.
+- 📫 How to reach me: `dhbalaji.work@gmail.com` 📩.
+- 😄 Pronouns: found with name `dhbalaji` on the internet.
 - ⚡ Fun fact: Having read many technical books 📚, I am planning to write a book focussed on performance engineering.
-- 📔 Maintains a technical blog at [dhbalaji.dev](https://dhbalaji.dev) ✍.
+- 📔 Actively runs a technical blog at [dhbalaji.dev](https://dhbalaji.dev) ✍ & passively an [Youtube channel](https://www.youtube.com/channel/UCH1nhBYxxLLXUHO6TdOTcQA) 📹.
+- 🚲 Hobbies include cycling and reading nonfiction books.
