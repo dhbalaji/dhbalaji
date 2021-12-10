@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 Hey, this is Balaji. I am a full stack developer specialized in frontend technologies.
 
--  🔭 I’m currently working as a senior software engineer at [Sabre, an innovative travel company](https://www.sabre.com/) on an enterprise webapp built on React Java stack.. Here are the things I do on a daily basis at work
-    - Gather software requirements (attending meetings 😀)
-    - Code the requirements and ship it within sprint (ideally)
-    - Write automation tests to do functional testing (in addition to unit tests)
-    - Lead developer teams (sometimes depending on size of module, its agile team right)
-    - Do operations and application support (prod issues 🤞)
-    - Of course defect fixes 🐛 & stand up meetings
-- 🌱 I’m currently learning on cloud computing tech like GCP & PE (performance engineering).
+-  🔭 I’m currently working as Lead Design Technologist on the [Enterprise Design Language](http://sabrespark.com/) team at [Sabre, an innovative travel company](https://www.sabre.com/). Here are the things I do on a daily basis at work
+    - Gather design requirements about UI components (attending meetings 😀)
+    - Code reusable, accessible and pixel perfect UI components with Typescript
+    - Write unit and visual tests
+    - Checkin with team members progress, inspire and challenge them from time to time
+    - Pull request reviews and checking for correctness of components
+    - Consulting with other product teams and promoting [EDL](http://sabrespark.com/) adoption
+- 🌱 Always exploring frontend libraries, W3, TC39 & PE (performance engineering).
 - 👯 I’m looking to collaborate with someone/projects which can prevent fraud/theft ⛑ in real world.
-- 💬 Ask me about product engineering, conducting tech trainings, interviewing people.
+- 💬 Ask me about UX, product engineering, conducting tech trainings, interviewing people.
 - 📫 How to reach me: `dhbalaji.work@gmail.com` 📩.
 - 😄 Alias: found with name `dhbalaji` on the internet.
 - ⚡ Fun fact: Having read many technical books 📚, I am planning to write a book focussed on performance engineering.
