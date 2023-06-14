@@ -1,17 +1,15 @@
-# Hi there 👋, glad that you are on my Github profile
+# Hi there 👋! Welcome to my GitHub profile. I'm delighted that you're here!
 
-Welcome to my Github profile. My name is Balaji, and I am a proficient full-stack developer with a specialization in frontend technologies.
+Welcome to my GitHub profile. I'm Balaji, an experienced lead developer with a strong background in software development and a specialization in `frontend technologies`.
 
-Currently, I serve as the `Lead Design Technologist` on the Enterprise Design Language team at Sabre, an innovative travel company. My daily responsibilities include gathering design requirements for UI components, coding reusable, accessible, and pixel-perfect UI components using Typescript, writing unit and visual tests, monitoring team progress, inspiring and challenging team members, reviewing pull requests, ensuring component correctness, consulting with other product teams, and promoting EDL adoption.
+Currently, I hold the role of `Lead Design Technologist` at Sabre, an innovative travel company, where I lead the Enterprise Design Language team. My responsibilities encompass gathering design requirements for UI components, coding reusable and accessible frontend solutions using Typescript, overseeing unit and visual testing, monitoring team progress, inspiring and challenging team members, conducting code reviews, ensuring component correctness, collaborating with other product teams, and promoting the adoption of our design language.
 
-My passion for frontend development leads me to continuously explore new libraries, as well as stay up-to-date with the latest standards, such as W3, TC39, and PE (performance engineering).
+My passion for frontend development drives me to continuously explore new libraries and stay up-to-date with the latest standards, including W3, TC39, and performance engineering (PE).
 
-I am seeking collaboration opportunities with individuals and projects that are focused on preventing fraud and theft in the real world.
+I am actively seeking collaboration opportunities with individuals and projects focused on combatting fraud and theft in the real world. I am also available to provide expertise in areas such as UX, product engineering, conducting technical trainings, and participating in interviews. You can reach me at `balaji@dhbalaji.dev` or find me online under the alias `dhbalaji`.
 
-Feel free to inquire about UX, product engineering, conducting tech trainings, and interviewing people. You can contact me at `balaji@dhbalaji.dev` or find me under the alias `dhbalaji` on the internet.
+As a fun fact, I have an extensive collection of technical books and I'm currently working on authoring a book centered around performance engineering. Additionally, I maintain a technical blog at dhbalaji.dev and run a passive YouTube channel.
 
-As a fun fact, I have read many technical books and am planning to write a book focused on performance engineering. I am also actively running a technical blog at dhbalaji.dev and have a passive Youtube channel.
+In my free time, I enjoy cycling and indulging in non-fiction literature.
 
-In my free time, I enjoy cycling and reading non-fiction books.
-
-Thank you for stopping by.
+Thank you for taking the time to visit my profile. If you have any questions or would like to connect, feel free to reach out.
