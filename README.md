@@ -1,3 +1,3 @@
 # Greetings! 👋
 
-I'm Balaji, a seasoned lead developer specializing in frontend technologies. As the Lead Design Technologist at Sabre, I oversee the Enterprise Design Language team, ensuring UI components meet product requirements. Passionate about web, I seek collaboration opportunities and offer expertise in UX, product engineering, technical training, and interviews. Stay connected at balaji@dhbalaji.dev, and explore my technical insights at www.dhbalaji.dev. Let's connect and innovate!
+I am Balaji, a seasoned lead developer specializing in cutting-edge frontend technologies. As the Lead Design Technologist at Sabre, I craft the Enterprise Design Language, ensuring seamless alignment of UI components with product specifications. My fervor for web intricacies extends to application development, technical books and curating content for frontend interviews. For a deeper dive into my technical insights, visit www.dhbalaji.dev.
